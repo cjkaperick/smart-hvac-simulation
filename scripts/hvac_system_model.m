@@ -1,3 +1,12 @@
+% actuator_dynamics.m
+% Smart HVAC System Simulation
+%
+% Models damper actuator dynamics using a
+% mass–spring–damper formulation.
+%
+% Author: Collin Kaperick, Akira Koenigsberg, Leo Parsons, Keve Varga, Owen Poissant
+% Date: March 31st, 2025
+
 % integrated_thermostat_system.m
 % This script integrates five subsystem models for a smart thermostat:
 %   - Mechanical (actuator dynamics sim)
