@@ -1,6 +1,6 @@
 % integrated_thermostat_system.m
 % This script integrates five subsystem models for a smart thermostat:
-%   - Mechanical (actuator dynamics)
+%   - Mechanical (actuator dynamics sim)
 %   - Electrical (sensor signal conditioning)
 %   - Fluidic (airflow dynamics)
 %   - Thermal (indoor temperature dynamics)
